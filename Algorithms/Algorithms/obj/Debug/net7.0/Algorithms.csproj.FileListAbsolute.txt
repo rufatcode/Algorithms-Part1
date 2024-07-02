@@ -1,0 +1,15 @@
+/Volumes/Mac/AistGroup/Algorithms/Algorithms/Algorithms/bin/Debug/net7.0/Algorithms
+/Volumes/Mac/AistGroup/Algorithms/Algorithms/Algorithms/bin/Debug/net7.0/Algorithms.deps.json
+/Volumes/Mac/AistGroup/Algorithms/Algorithms/Algorithms/bin/Debug/net7.0/Algorithms.runtimeconfig.json
+/Volumes/Mac/AistGroup/Algorithms/Algorithms/Algorithms/bin/Debug/net7.0/Algorithms.dll
+/Volumes/Mac/AistGroup/Algorithms/Algorithms/Algorithms/bin/Debug/net7.0/Algorithms.pdb
+/Volumes/Mac/AistGroup/Algorithms/Algorithms/Algorithms/obj/Debug/net7.0/Algorithms.csproj.AssemblyReference.cache
+/Volumes/Mac/AistGroup/Algorithms/Algorithms/Algorithms/obj/Debug/net7.0/Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Mac/AistGroup/Algorithms/Algorithms/Algorithms/obj/Debug/net7.0/Algorithms.AssemblyInfoInputs.cache
+/Volumes/Mac/AistGroup/Algorithms/Algorithms/Algorithms/obj/Debug/net7.0/Algorithms.AssemblyInfo.cs
+/Volumes/Mac/AistGroup/Algorithms/Algorithms/Algorithms/obj/Debug/net7.0/Algorithms.csproj.CoreCompileInputs.cache
+/Volumes/Mac/AistGroup/Algorithms/Algorithms/Algorithms/obj/Debug/net7.0/Algorithms.dll
+/Volumes/Mac/AistGroup/Algorithms/Algorithms/Algorithms/obj/Debug/net7.0/refint/Algorithms.dll
+/Volumes/Mac/AistGroup/Algorithms/Algorithms/Algorithms/obj/Debug/net7.0/Algorithms.pdb
+/Volumes/Mac/AistGroup/Algorithms/Algorithms/Algorithms/obj/Debug/net7.0/Algorithms.genruntimeconfig.cache
+/Volumes/Mac/AistGroup/Algorithms/Algorithms/Algorithms/obj/Debug/net7.0/ref/Algorithms.dll
